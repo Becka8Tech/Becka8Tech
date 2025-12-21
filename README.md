@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rebekah.
+- 👋 Hi, I’m Rebekah Miller.
 - 👀 I’m interested in dancing, singing, creating with code.
 - 🌱 I’m currently learning as much as I can about coding.
 - 📫 How to reach me via email: rebekahmiller18@gmail.com
