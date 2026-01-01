@@ -2,7 +2,7 @@
 - 👀 I’m interested in dancing, singing, creating with code.
 - 🌱 I’m currently learning as much as I can about coding.
 - 📫 How to reach me via email: rebekahmiller18@gmail.com
-- ⚡ Fun fact: I've hiked most of the Appalachian Trail and the Washington state portion of the Pacific Crest Trail.
+- ⚡ Fun fact: I was involved in the leadership team through Trinity International University.
 
 <!---
 Becka8Tech/Becka8Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
